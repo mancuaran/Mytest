@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCalculationNote</string>
+    <string name="textView2">Calculation</string>
+    <string name="textView3">Note 1:</string>
+    <string name="textView4">Note 2:</string>
+    <string name="textView5">Note 3:</string>
+    <string name="textView11">Apo 2</string>
+    <string name="textView7">Note 1:</string>
+    <string name="textView8">Note 2:</string>
+    <string name="textView9">Note 3:</string>
+    <string name="textView17">English</string>
+    <string name="textView16">Note 1:</string>
+    <string name="textView18">Note 2:</string>
+    <string name="textView19">Note 3:</string>
+    <string name="textView24">PMI</string>
+    <string name="textView25">Note 1:</string>
+    <string name="textView26">Note 2:</string>
+    <string name="textView27">Note 3:</string>
+    <string name="button4">Calculate Semester Grade</string>
+    <string name="button6">About</string>
+    <string name="textView29">How to know your final grade:</string>
+    <string name="textView33">Note 1 *30%</string>
+    <string name="textView34">Note 2 *30%</string>
+    <string name="textView35">Note 3 *40%</string>
+    <string name="textView36">Total: Nota 1 + Nota 2 + Nota 3</string>
+    <string name="textView30">Developer: Manuel Cuaran</string>
+    <string name="textView31">University Mariana</string>
+    <string name="textView32">Systems Engineer</string>
+    <string name="button2">Return</string>
+
+
+    <string name="advertencia2">You must enter all the notes.</string>
+    <string name="invalido">Invalid Value</string>
+    <string name="notafinal">Your final grade is: </string>
+</resources>

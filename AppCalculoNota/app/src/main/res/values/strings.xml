@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppCalculoNota</string>
+    <string name="textView2">Calculo</string>
+    <string name="textView3">Nota 1:</string>
+    <string name="textView4">Nota 2:</string>
+    <string name="textView5">Nota 3:</string>
+    <string name="textView11">Apo 2</string>
+    <string name="textView7">Nota 1:</string>
+    <string name="textView8">Nota 2:</string>
+    <string name="textView9">Nota 3:</string>
+    <string name="textView17">Ingles</string>
+    <string name="textView16">Nota 1:</string>
+    <string name="textView18">Nota 2:</string>
+    <string name="textView19">Nota 3:</string>
+    <string name="textView24">PMI</string>
+    <string name="textView25">Nota 1:</string>
+    <string name="textView26">Nota 2:</string>
+    <string name="textView27">Nota 3:</string>
+    <string name="button4">Calcular nota semestre</string>
+    <string name="button6">ACERCA DE</string>
+    <string name="textView29">Como saber su nota final:</string>
+    <string name="textView33">Nota 1 *30%</string>
+    <string name="textView34">Nota 2 *30%</string>
+    <string name="textView35">Nota 3 *40%</string>
+    <string name="textView36">Total: Nota 1 + Nota 2 + Nota 3</string>
+    <string name="textView30">Desarrollador: Manuel Cuaran</string>
+    <string name="textView31">Universidad Mariana</string>
+    <string name="textView32">Ingenieria de Sistemas</string>
+    <string name="button2">Volver</string>
+
+    <string name="advertencia2">Debe ingresar todas las notas</string>
+    <string name="invalido">Valor Invalido</string>
+    <string name="notafinal">Su nota final es: </string>
+</resources>
